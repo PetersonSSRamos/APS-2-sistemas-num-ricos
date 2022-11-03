@@ -59,5 +59,6 @@ def compress_image(img_name, img, k):
 
     # Uncomment below code if you want to save your compressed image to the file
     # compressed_image = Image.fromarray(compressed_image)
-    # compressed_image.save("image_name.jpg")
-    
+    # compressed_image.save("image_name.jpg")  
+image.shape
+
